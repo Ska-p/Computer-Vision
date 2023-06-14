@@ -119,7 +119,7 @@ main(int argc, char** argv) {
     vector<String> patches_;
     vector<Mat> patches, patches_t;
 
-    //  GOOD PATCHES
+    //  GOOD PATCHES LOADING
     string patches_path = "../" + path + "/patch_?.jpg";
     loadPatches(patches_path, patches_, patches);
 
