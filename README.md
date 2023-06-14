@@ -1,7 +1,7 @@
 # Final Project for CV course. Problem: Image completion
 
 ##  Input
-+ Corrupted Image: image with corrupted zones <a href=#tabs> </a>
++ <a href=#tabs> Corrupted Image </a>: image with corrupted zones 
 +
 +
 
